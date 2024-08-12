@@ -1,0 +1,20 @@
+.primary {
+    background-color: #152238;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .secondary {
+    background-color: gray;
+    color: black;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+
+.button:hover{
+    color: black;
+
+}

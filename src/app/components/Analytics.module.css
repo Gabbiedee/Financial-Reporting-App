@@ -1,0 +1,35 @@
+.analytics {
+margin-top: 20px;
+  width: 80%;
+  height: 80%;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  column-gap: 20px;
+
+
+}
+
+.totalCardLists {
+  width: 40%;
+  height: 40%;
+  text-align: center;
+  font-size: 0.7rem;
+  border-radius: 7px;
+  color: black;
+  box-shadow: 1px 2px 3px 4px rgba(20,20,20,0.4);
+  border-radius: 5px;
+}
+
+.totalCardListItem {
+  list-style: none;
+  margin: 50px;
+  
+}
+
+.totalCardListItem:first-child{
+    font-weight: bolder;
+    font-size: 20px;
+}

@@ -1,0 +1,33 @@
+
+.form{
+    margin: 10px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.options{
+    background-color: #152238;
+    outline: none;
+    padding: 5px 0;
+}
+
+.offeringField{
+    width: 80%;
+    display: flex;
+    margin: 10px;
+    flex-direction: column;
+}
+.offeringField label{
+   padding: 5px 0;
+}
+.offeringField input{
+   padding: 10px 5px;
+   background-color: white;
+   color: black;
+   border-radius: 5px;
+   border-color: #152238;
+   outline: none;
+}

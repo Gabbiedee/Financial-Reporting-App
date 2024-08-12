@@ -1,0 +1,25 @@
+.displayReport{
+   margin: auto;
+    width: 60%;
+    padding: 15px 0;
+    background-color: white;
+    box-shadow: 0 0 15px 0 rgba(0, 0, 0, 0.5);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.displayText{
+    text-align: center;
+}
+
+.displayReport li{
+    list-style: none;
+    background-color: #152238;
+    margin: 10px;
+    padding: 5px;
+    color: aliceblue;
+    width: 70%;
+    font-size: .7rem;
+}
